@@ -67,4 +67,4 @@ print(len(age_set)) #5
 sentence = 'I am a teacher and I love to inspire and teach people.'
 sentence_split = sentence.split()
 sentence_set = set(sentence_split)
-print(len(sentence_set))
+print(len(sentence_set)) #10 words
