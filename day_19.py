@@ -146,12 +146,15 @@ java_count = 0
 with open('./data/hacker_news.csv') as f:
     # csvreader = csv.reader(f)
     for row in f.readlines():
-        all = row.lower()
-        if 'python' in all:
+        row = row.lower()
+        if 'python' in row:
             python_count += 1
-        if 'javascript' in all:
+        if 'javascript' in row:
             javascript_count += 1
-        if 'java' in all and 'javascript' not in all:
+            row = row.replace('javascript', '')
+        if 'java' in row and 'javascript' not in row:
             java_count += 1
 
 print(python_count)
+print(javascript_count)
+print(java_count)
