@@ -1,0 +1,52 @@
+[
+  {
+    "link": "/dataset/53/iris",
+    "heading": "Iris",
+    "paragraph": "A small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods."
+  },
+  {
+    "link": "/dataset/45/heart+disease",
+    "heading": "Heart Disease",
+    "paragraph": "4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach"
+  },
+  {
+    "link": "/dataset/186/wine+quality",
+    "heading": "Wine Quality",
+    "paragraph": "Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/)."
+  },
+  {
+    "link": "/dataset/17/breast+cancer+wisconsin+diagnostic",
+    "heading": "Breast Cancer Wisconsin (Diagnostic)",
+    "paragraph": "Diagnostic Wisconsin Breast Cancer Database."
+  },
+  {
+    "link": "/dataset/222/bank+marketing",
+    "heading": "Bank Marketing",
+    "paragraph": "The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y)."
+  },
+  {
+    "link": "/dataset/2/adult",
+    "heading": "Adult",
+    "paragraph": "Predict whether annual income of an individual exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset."
+  },
+  {
+    "link": "/dataset/320/student+performance",
+    "heading": "Student Performance",
+    "paragraph": "Predict student performance in secondary education (high school)."
+  },
+  {
+    "link": "/dataset/352/online+retail",
+    "heading": "Online Retail",
+    "paragraph": "This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail."
+  },
+  {
+    "link": "/dataset/109/wine",
+    "heading": "Wine",
+    "paragraph": "Using chemical analysis to determine the origin of wines"
+  },
+  {
+    "link": "/dataset/19/car+evaluation",
+    "heading": "Car Evaluation",
+    "paragraph": "Derived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods."
+  }
+]
